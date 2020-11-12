@@ -1,0 +1,8035 @@
+body {
+  background: #08407c;
+}
+
+.square {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  animation: squares 6s ease-in-out infinite;
+}
+
+.light {
+  width: calc(100vw/33);
+  height: calc(100vw/33);
+  border-radius: 0px;
+  background: #f1678e;
+  position: relative;
+  float: left;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+.light:nth-child(odd) {
+  background: #ff9d42;
+}
+
+.light:nth-child(even) {
+  background: #08407c;
+}
+
+@keyframes squares {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/*# sourceMappingURL=my_style.css.map */
