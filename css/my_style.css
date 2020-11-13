@@ -12,12 +12,24 @@ body {
 }
 
 .light {
-  width: calc(100vw/33);
-  height: calc(100vw/33);
+  width: calc(100vw/9);
+  height: calc(100vw/9);
   border-radius: 0px;
   background: #f1678e;
   position: relative;
   float: left;
+}
+@media (min-width: 600px) {
+  .light {
+    width: calc(100vw/19);
+    height: calc(100vw/19);
+  }
+}
+@media (min-width: 1200px) {
+  .light {
+    width: calc(100vw/33);
+    height: calc(100vw/33);
+  }
 }
 
 .light:nth-child(odd) {
